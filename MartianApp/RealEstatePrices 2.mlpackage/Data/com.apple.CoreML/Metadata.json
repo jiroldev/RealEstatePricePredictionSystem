@@ -1,0 +1,9 @@
+{
+  "MLModelVersionStringKey" : "2.0",
+  "MLModelDescriptionKey" : "Tagaytay Real Estate Prices Prediction",
+  "MLModelCreatorDefinedKey" : {
+    "com.apple.createml.version" : "12.5.1"
+  },
+  "MLModelAuthorKey" : "Jirol",
+  "MLModelLicenseKey" : "--"
+}

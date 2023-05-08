@@ -1,0 +1,24 @@
+{
+    "fileFormatVersion": "1.0.0",
+    "itemInfoEntries": {
+        "309B0201-A673-4592-A89B-F09FA7C0ED0A": {
+            "author": "com.apple.CoreML",
+            "description": "CoreML Model Specification",
+            "name": "RealEstatePrices 2.mlmodel",
+            "path": "com.apple.CoreML/RealEstatePrices 2.mlmodel"
+        },
+        "772D9077-ABE5-4715-9C1A-2C8F91C98790": {
+            "author": "com.apple.CoreML",
+            "description": "External FeatureDescription Overlay",
+            "name": "FeatureDescriptions.json",
+            "path": "com.apple.CoreML/FeatureDescriptions.json"
+        },
+        "F7EBEC9C-0054-4D1A-B5A2-A44D34B5C359": {
+            "author": "com.apple.CoreML",
+            "description": "External Metadata Overlay",
+            "name": "Metadata.json",
+            "path": "com.apple.CoreML/Metadata.json"
+        }
+    },
+    "rootModelIdentifier": "309B0201-A673-4592-A89B-F09FA7C0ED0A"
+}

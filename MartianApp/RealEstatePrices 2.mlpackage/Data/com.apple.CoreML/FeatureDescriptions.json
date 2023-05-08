@@ -1,0 +1,30 @@
+{
+  "Outputs" : {
+    "Price" : {
+      "MLFeatureShortDescription" : "--"
+    }
+  },
+  "Inputs" : {
+    "Pool" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "Property Type" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "Bathrooms" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "Area" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "Parking" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "Bedrooms" : {
+      "MLFeatureShortDescription" : "--"
+    }
+  },
+  "TrainingInputs" : {
+
+  }
+}
